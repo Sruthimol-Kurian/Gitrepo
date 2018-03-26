@@ -1,1 +1,2 @@
-pulled from GitHub
+pulled from GitHub using pull cmd
+fetched and merged
